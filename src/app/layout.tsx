@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'ghostmessage',
-  description: 'Real feedback from real people.',
+  description: 'A secure, privacy-first ecosystem for facilitating honest and unfiltered digital interactions.',
 };
 
 interface RootLayoutProps {

@@ -2,6 +2,7 @@
   "name": "ghostmessage",
   "version": "0.1.0",
   "private": true,
+  "author": "Yash Vekariya",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

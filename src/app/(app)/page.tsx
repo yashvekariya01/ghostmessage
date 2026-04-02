@@ -74,9 +74,9 @@ export default function Home() {
       </main>
 
       {/* Footer */}
-      <footer className="text-center p-8 md:p-12 bg-black border-t border-zinc-900 text-zinc-500 text-sm font-medium tracking-tight">
-        © 2026 <span className="text-white">ghostmessage</span>. Crafted with precision.
-      </footer>
+<footer className="text-center p-8 md:p-12 bg-black border-t border-zinc-900 text-zinc-500 text-sm font-medium tracking-tight">
+  © 2026 <span className="text-white">ghostmessage</span>. "Where anonymity meets accountability."
+</footer>
     </>
   );
 }
