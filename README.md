@@ -2,7 +2,6 @@
 
 **ghostmessage** is a premium, high-performance anonymous messaging platform. Built with **Next.js 14**, it offers a seamless and secure experience for users to receive honest feedback, thoughts, or questions while maintaining complete anonymity for the sender.
 
-![ghostmessage Demo](https://raw.githubusercontent.com/username/repository/main/public/demo-screenshot.png) *(Note: Add your actual screenshot here later)*
 
 ## ✨ Features
 
